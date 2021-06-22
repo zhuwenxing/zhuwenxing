@@ -3,9 +3,9 @@
 
 
 
-| 知乎    | leetcode   |
+<!-- | 知乎    | leetcode   |
 |-------------|-------------|
-|![wxzhu的知乎数据](https://stats.justsong.cn/api/zhihu?username=zhu-wen-xing-52)|![wxzhu的leetcode数据](https://stats.justsong.cn/api/leetcode?username=wxzz&cn=true)|
+|![wxzhu的知乎数据](https://stats.justsong.cn/api/zhihu?username=zhu-wen-xing-52)|![wxzhu的leetcode数据](https://stats.justsong.cn/api/leetcode?username=wxzz&cn=true)| -->
 
 
 
