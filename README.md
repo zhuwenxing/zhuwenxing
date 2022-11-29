@@ -1,13 +1,5 @@
 ### Hi there 👋
-![WxZhu's github stats](https://github-readme-stats.vercel.app/api?username=zhuwenxing&count_private=true&show_icons=true)
-
-
-
-<!-- | 知乎    | leetcode   |
-|-------------|-------------|
-|![WxZhu的知乎数据](https://stats.justsong.cn/api/zhihu?username=zhu-wen-xing-52)|![WxZhu的leetcode数据](https://stats.justsong.cn/api/leetcode?username=wxzz&cn=true)| -->
-
-
+![zhuwenxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuwenxing&show_icons=true)
 
 
 
